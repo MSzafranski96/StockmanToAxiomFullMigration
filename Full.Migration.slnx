@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Full.Migration.Runner/Full.Migration.Runner.csproj" />
+  <Project Path="Full.Migration.Tests/Full.Migration.Tests.csproj" />
+  <Project Path="Full.Migration/Full.Migration.csproj" />
+</Solution>

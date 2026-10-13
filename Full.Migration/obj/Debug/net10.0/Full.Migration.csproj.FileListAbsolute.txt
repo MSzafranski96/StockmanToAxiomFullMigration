@@ -1,0 +1,13 @@
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\bin\Debug\net10.0\Full.Migration.deps.json
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\bin\Debug\net10.0\Full.Migration.dll
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\bin\Debug\net10.0\Full.Migration.pdb
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.AssemblyInfoInputs.cache
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.AssemblyInfo.cs
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.csproj.CoreCompileInputs.cache
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.dll
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\refint\Full.Migration.dll
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.pdb
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\ref\Full.Migration.dll
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Migration.csproj.AssemblyReference.cache
+C:\RepDev\StockmanToAxiomFullMigration\Full.Migration\obj\Debug\net10.0\Full.Mig.12556510.Up2Date
